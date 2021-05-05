@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: #f3f4ed;
+}
+
+.dot {
+    background-color: #9ddfd3;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 400px;
+    left: 400px;
+    display: inline-block;
+}
+
+.bot {
+    background-color: #294;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    display: inline-block;
+}
+
+.bot2 {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 0px;
+    display: inline-block;
+}
