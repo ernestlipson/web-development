@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Document</title>
+  </head>
+  <body>
+    <center>
+      <div>
+        <form action="school_submit" method="get" accept-charset="utf-8">
+          <p>student ID <input type="text" name="index" /></p>
+          <p>number of courses <input type="text" name="id" /></p>
+          <p>input password <input type="password" name="password" /></p>
+        </form>
+        <form action="">
+          <p>
+            email: <input type="text" name="input" />
+            <input type="submit" value="submit email" id="jsSubmit" />
+          </p>
+        </form>
+      </div>
+    </center>
+    <div
+      style="background-color: gainsboro; padding: 10px; margin: 25px"
+      title="Opening Of School"
+    >
+      <h3>Opening Of School</h3>
+      After the just ended 64th General Council Meeting, the School Management
+      as well as the student representative council has agreed to resume
+      Academic work on 24th March, 2021. In view of that all students are
+      required to pay their academic fees on time to avoid any inconvinience.
+    </div>
+  </body>
+</html>
+

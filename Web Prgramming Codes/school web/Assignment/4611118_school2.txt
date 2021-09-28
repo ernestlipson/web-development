@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="school2.css">
+  </head>
+  <body>
+    <h2 style="text-align: center">Login Form</h2>
+
+<form action="school_submit" method="get" accept-charset="utf-8">
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+        
+    <button type="submit">Login</button>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
+
+  <div class="container" style="background-color:#f1f1f1">
+    <button type="button" class="cancelbtn">Cancel</button>
+    <span class="psw">Forgot <a href="#">password?</a></span>
+  </div>
+</form>
+
+</body>
+    <div
+      style="background-color: gainsboro; padding: 10px; margin: 25px"
+      title="Opening Of School"
+    >
+      <h3>Opening Of School</h3>
+      After the just ended 64th General Council Meeting, the School Management
+      as well as the student representative council has agreed to resume
+      Academic work on 24th March, 2021. In view of that all students are
+      required to pay their academic fees on time to avoid any inconvinience.
+    </div>
+  </body>
+</html>
+

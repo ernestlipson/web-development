@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Home | AKWAMUMAN SENIOR HIGH SCHOOL</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="school.css">
+</head>
+<!-- --body style="background-color:rgb(153, 255, 153);" -->
+<p>
+    <center style="font-weight: bold; font-size: 50px;">The Student Portal</center>
+</p>
+<center>
+    <img src="images/index2.png" alt="images/index.png" width="102" height="98">
+</center>
+<a href="https://www.knust.edu.gh/"></a>
+    <br style="width: 200px;"><center>
+        <div style="background-color: rgb(93, 241, 34); padding: 5px;
+        margin: 0px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"
+        style="line-height: 500px;"></div>
+    </center>
+    <div title="Programs of study" style="background-color: rgb(193, 219, 192);">
+        <hr>
+        <h2 style="font-size: 20px;">
+            Programs of study:
+        </h2> 
+        In Akwamuman senior School these are the various field of study:
+        <pre>
+            1. General Science
+            2. General Arts
+            3. Business
+            4. Agriculture
+            5. Home Economics
+        </pre>
+    </div>
+      
+      <div style="background-color:#aaa; padding: 20px; margin: 5px;">
+        <h2 style="font-size: xx-large;"> Events and News</h2>
+        <p>Below is the upcoming event and the news in the school</p>
+        <ol>
+            <li> Akwamuman Senior High School <i>enters</i> the NSQM competition for the first time after beating... <a href="school3.html">Read More</a></li>
+            <li>School resumes on the .... <a href="school2.html">Read More</a></li>
+            <li>A new student portal been developed will be made availabe to students <a href="school2.html">click to fill in your details</a> </li>
+        </ol>
+      </div>
+
+Below is a List of our Notable Alumini
+<ul>
+      <li>Kwadwo Oppong Nkrumah</li>
+      <li>Eno Baron</li>
+      <li>Nana Aba Anamoah</li>
+      <li>Kofi Addai Odike</li>
+</ul>
+Below is a List of our Notable Staffs
+<ol>
+      <li>Oppong Agyei krumah</li>
+      <li>Amissah Gyan Joseph</li>
+      <li>John Alexander Dowie</li>
+      <li>Nana Adei Quansah</li>
+</ol>
+Some of our Notable students
+    <dl>
+      <li>Frimpong Owusu</li>
+      <li>Opoku Asantewaa Asante</li>
+      <li>Jane Mensah Srbah</li>
+      <li>Janet Oppong Weah</li>
+      <li>Nana Aba Anamoah</li>
+      <li>Yaw Gyan Adom</li>
+      <li>Owusuaa Kasandra</li>
+      <dt>Kyei Baffour Bonney</dt>
+      <dd>offering maths</dd>
+      <dt>Ernest Ofosu Darko</dt>
+      <dd>offering Computing</dd>
+      <dt>Yaw Peprah Asamoah</dt>
+      <dd>offering Biology</dd>
+    </dl>
+</body>
+</html>
+

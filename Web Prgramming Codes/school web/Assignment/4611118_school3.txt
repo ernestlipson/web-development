@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="table.css">
+  </head>
+  <body>
+    The National Science and Maths Quiz saw our schoool participate for the
+    first time after beating Mfatsipm School and Okuapeman School. Below is a
+    Summarized results of the competition
+    <center>
+      <table border="3" style="background-color: aliceblue">
+        <br />
+        <caption>
+          Data showing the NSMQ results
+        </caption>
+        <thead>
+          <tr>
+            <th>Name of Scool</th>
+            <th>R1</th>
+            <th>R2</th>
+            <th>R3</th>
+            <th>Total</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Akwamuman SHS</td>
+            <td>65</td>
+            <td>43</td>
+            <td>33</td>
+            <td>141</td>
+          </tr>
+          <tr>
+            <td>Mfatsipm SHS</td>
+            <td>60</td>
+            <td>38</td>
+            <td>33</td>
+            <td>131</td>
+          </tr>
+          <tr>
+            <td>Okuapeman SHS</td>
+            <td>12</td>
+            <td>40</td>
+            <td>40</td>
+            <td>92</td>
+          </tr>
+        </tbody>
+      </table>
+    </center>
+    <center>
+      <table border="3" style="background-color: aliceblue">
+        <br />
+        <caption>
+          Some Past Winners of the NSMQ
+        </caption>
+        <tbody>
+          <tr>
+            <th>Year</th>
+            <th>Winning school</th>
+            <th>1st Runner-up</th>
+            <th>2nd Runner-up</th>
+          </tr>
+          <tr>
+            <td>1994</td>
+            <td>Prempeh College</td>
+            <td>Achimota School</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1995</td>
+            <td>Presbyterian Boys’ Secondary School</td>
+            <td>Opoku Ware School</td>
+          </tr>
+          <tr>
+            <td>1996</td>
+            <td>Prempeh College</td>
+            <td>Presbyterian Boys' Secondary School, Legon</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1997</td>
+            <td>Opoku Ware School</td>
+            <td>Prempeh College</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1998</td>
+            <td>Achimota School</td>
+            <td>St. Peter's Senior High School</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1999</td>
+            <td>Mfantsipim School</td>
+            <td>Wesley Girls' High School</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2000</td>
+            <td>St. Peter's Senior Secondary School</td>
+            <td>Mfantsipim School</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2001</td>
+            <td>Pope John Secondary School</td>
+            <td>Ghana Secondary Technical School</td>
+            <td></td>
+          </tr>
+          <tr></tr>
+        </tbody>
+      </table>
+    </center>
+  </body>
+</html>
+

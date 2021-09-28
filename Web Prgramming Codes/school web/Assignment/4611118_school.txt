@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Home | AKWAMUMAN SENIOR HIGH SCHOOL</title>
+    <meta charset="utf-8">
+<style type="text/css" media="screen">
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<!-- --body style="background-color:rgb(153, 255, 153);" -->
+<p>
+    <center>
+        <h1 style="color:green" style="font-family:verdana" >
+        <b>Welcome to Akwamuman</b>
+    </h1>
+    </center>
+</p>
+<center>
+    <img src="images/index2.png" alt="images/index.png" width="102" height="98">
+</center>
+<a href="https://www.knust.edu.gh/"></a>
+    <div title="How the School started" style="background-color: rgb(154, 255, 153);">
+        <hr>
+        <h1 style="font-size: 22px;">
+            Brief History of Akwamuman Senior High School
+        </h1> 
+        Akwamuman was founded in <i><em>1969</em></i> at Akwamu by the late odeneho kwafo Akoto II, Omanhene of Akwammu Traditional Area.
+        <br>Situated on the Kpong-Akosombo road, A pioneer in Science education, Akwamuman has grown to be one of the best in recent years.
+    </div>
+    <br style="width: 200px;"><center>
+        <div style="background-color: rgb(93, 241, 34); padding: 5px;
+        margin: 0px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"
+        style="line-height: 500px;"></div>
+    </center>
+    <div title="Programs of study" style="background-color: rgb(193, 219, 192);">
+        <hr>
+        <h2 style="font-size: 20px;">
+            Programs of study:
+        </h2> 
+        In Akwamuman senior School these are the various field of study:
+        <pre>
+            1. General Science
+            2. General Arts
+            3. Business
+            4. Agriculture
+            5. Home Economics
+        </pre>
+    </div>
+      
+      <div style="background-color:#aaa; padding: 20px; margin: 5px;">
+        <h2 style="font-size: xx-large;"> Events and News</h2>
+        <p>Below is the upcoming event and the news in the school</p>
+        <ol>
+            <li> Akwamuman Senior High School <i>enters</i> the NSQM competition for the first time after beating... <a href="">Read More</a></li>
+            <li>School resumes on the .... <a href="">Read More</a></li>
+            <li>A new student portal been developed will be made availabe to students <a href=" ">click to fill in your details</a> </li>
+        </ol>
+      </div>
+<blockquote cite=""http://www.worldwildlife.org/who/index.html>
+     <!-- ="http://www.worldwildlife.org/who/index.html"> -->
+For 50 years, Akwamuman Senior High School has been producing the best of stdents worldwide and will continue to do so.
+</blockquote>
+</body>
+</html>

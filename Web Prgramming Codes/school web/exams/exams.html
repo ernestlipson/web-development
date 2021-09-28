@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <link rel="stylesheet" href="">
+    <style type="text/css" media="screen">
+    table {
+        border: outset 2px;
+        margin-left: 20px
+    }
+
+    table td {
+        border: inset 1px padding: 5px
+    }
+
+    table tr {
+        boder: solid 10px powderblue
+    }
+
+    table caption {
+        font: bold 12pt;
+    }
+
+    .heading {
+        font-weight: bold;
+        text-align: center;
+        vertical-align: middle;
+        background-color: #f0f0f0
+    }
+
+    .row {
+        text-align: right
+    }
+
+    .label {
+        text-align: left
+    }
+
+    .total {
+        text-align: right;
+        font-weight: bold;
+        background-color: #f0f0f0
+    }
+
+    </style>
+</head>
+
+<body>
+    <table>
+        <caption>A Table Showing Quantity and Values of A computer software company</caption>
+        <thead>
+            <tr>
+                <th>Quantity and Value of Software</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <td colspan="4">Shipping</td>
+                <td>50.00</td>
+            </tr>
+            <tr>
+                <td colspan="4">Sales Tax</td>
+                <td>155.77</td>
+            </tr>
+            <tr>
+                <td colspan="4">Total</td>
+                <td>$ 2,431.16</td>
+            </tr>
+        </tfoot>
+        <tbody>
+            <tr class="heading">
+                <td rowspan="2">Software</td>
+                <td colspan="2">Department A</td>
+                <td colspan="2">Department B</td>
+            </tr>
+            <tr class="heading">
+                <td>Copies</td>
+                <td>$ Value</td>
+                <td>Copies</td>
+                <td>$ Value</td>
+            </tr>
+            <tr class="row">
+                <td class="label">Word Processors</td>
+                <td>10</td>
+                <td>700.00</td>
+                <td>15</td>
+                <td>1,050.00</td>
+            </tr>
+            <tr class="row">
+                <td class="label">Spread Sheets</td>
+                <td>12</td>
+                <td>780.00</td>
+                <td>18</td>
+                <td>1,170.00</td>
+            </tr>
+            <tr class="row">
+                <td class="label">Database</td>
+                <td>7</td>
+                <td>595.00</td>
+                <td>9</td>
+                <td>765.00</td>
+            </tr>
+            <tr class="total">
+                <td>Total Value</td>
+                <td colspan="2">$2,075</td>
+                <td colspan="2">$2,985</td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- <frameset cols="30%"></frameset> -->
+    <frameset cols="25%,*,25%">
+        <frame src="frame_a.html">
+            <frame src="frame_b.html">
+                <frame src="frame_c.html">
+    </frameset>
+</body>
+
+</html>
